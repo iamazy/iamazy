@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on implement a message queue with Rust
 - 🌱 I’m looking to collaborate on coding and focus
-- ⚡ Fun fact: try anything
+- ⚡ Fun fact: Try anything
