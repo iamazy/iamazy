@@ -4,5 +4,5 @@
 - 🌱 I’m looking to collaborate on coding and focus
 - ⚡ Fun fact: Try anything
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamazy&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamazy&hide=css,html"/>
+![Iamazy's github stats](https://github-readme-stats.vercel.app/api?username=iamazy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamazy&hide=css,html&plang_row_items=1)](https://github.com/iamazy)
