@@ -4,4 +4,4 @@
 - 🌱 I’m looking to collaborate on coding and focus
 - ⚡ Fun fact: Try anything
 
-![Iamazy's github stats](https://github-readme-stats.vercel.app/api?username=iamazy&hide=contribs,prs)
+![Iamazy's github stats](https://github-readme-stats.vercel.app/api?username=iamazy&show_icons=true)
