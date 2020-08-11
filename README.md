@@ -5,4 +5,4 @@
 - ⚡ Fun fact: Try anything
 
 ![Iamazy's github stats](https://github-readme-stats.vercel.app/api?username=iamazy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamazy&layout=compact&hide=css,html)](https://github.com/iamazy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamazy&hide=css,html)](https://github.com/iamazy)
