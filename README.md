@@ -1,8 +1,7 @@
 <div>
-<div style="float: left">
-  <div><a href="https://github.com/iamazy"><img src="https://raw.githubusercontent.com/iamazy/iamazy/master/profile-summary-card-output/nord_bright/3-stats.svg"/></a></div>
-  <div style="float: right">
-<p>
+<div style="float: left"><a href="https://github.com/iamazy"><img src="https://raw.githubusercontent.com/iamazy/iamazy/master/profile-summary-card-output/nord_bright/3-stats.svg"/></a></div>
+  
+<div style="float: left"><p>
  
 ### Hi there 👋
 - 🔭 I’m currently working on implement a message queue with Rust
