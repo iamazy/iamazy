@@ -3,7 +3,7 @@
 - 🌱 I’m looking to collaborate on coding and focus
 - ⚡ Fun fact: Try anything
 
-![](https://komarev.com/ghpvc/?username=vn7n24fzkq&color=dc143c)
+![](https://komarev.com/ghpvc/?username=iamazy&color=dc143c)
 
 ---
 
