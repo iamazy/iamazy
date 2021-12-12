@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on implement a message queue with Rust
-- 🌱 I’m looking to collaborate on coding and focus
-- ⚡ Fun fact: Code for bug
+- 🔭 I’m currently learning database.
+- 🌱 I’m looking to collaborate on coding and focus.
+- ⚡ Fun fact: code for bug.
 
 ![](https://komarev.com/ghpvc/?username=iamazy&color=dc143c)
 
