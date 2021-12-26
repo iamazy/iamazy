@@ -3,6 +3,9 @@
 - 🌱 I’m looking to collaborate on coding and focus.
 - ⚡ Fun fact: code for bug.
 
+![Metrics](https://metrics.lecoq.io/iamazy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
+
+
 ![](https://komarev.com/ghpvc/?username=iamazy&color=dc143c)
 
 ---
