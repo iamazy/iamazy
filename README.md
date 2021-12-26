@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently learning database.
-- 🌱 I’m looking to collaborate on coding and focus.
-- ⚡ Fun fact: code for bug.
+- 🌱 I’m currently learning database (need help).
+- 📚 I'm reading [database internal](https://github.com/sinsay/database_internals) & [ddia](https://github.com/Vonng/ddia)
+- 🥝 I'm doing the labs of [6.830/6.814](https://github.com/iamazy/simple-db-2021)
 
 ![Metrics](https://metrics.lecoq.io/iamazy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
