@@ -6,6 +6,9 @@
 - 🍉 I want to build my own database named **helyim** written by rust (still in the brain)
 - ☕️  Feel free to reach me to talk about anything.
 
+### 📚 to be read
+- [PostgreSQL技术内幕](https://pg-internal.vonng.com/#/)
+
 ![Metrics](https://metrics.lecoq.io/iamazy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
 
