@@ -85,7 +85,7 @@
       "project_role": "核心开发者",
       "project_time": "2022.03 - 至今",
       "project_desc": "通过 rust 语言实现 JVM 主要功能，包括class文件的解析，类的加载，运行时数据区的实现，可以执行大多数 JVM 指令",
-      "project_content": "\n1. 通过 nom 解析 class 文件，转换成对应的 class 对象\n2. 实现运行时数据区，为 JVM 指令的调用打下基础\n3. 实现 class path 加载，支持路径，jar和zip文件\n5. 可以调用 JVM 指令执行简单的 Java 程序",
+      "project_content": "\n1. 通过 nom 解析 class 文件，转换成对应的 class 对象\n2. 实现运行时数据区，为 JVM 指令的调用打下基础\n3. 实现 class path 加载，支持路径，jar和zip文件\n4. 可以调用 JVM 指令执行简单的 Java 程序",
       "dataIndex": 1
     },
     {
@@ -101,7 +101,7 @@
       "project_role": "研发负责人",
       "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
       "project_desc": "响应集团单元化战略，在异地部署多个集群构成单元与中心，并通过 DRC 组件进行数据传输，减少异地之间的流量复制",
-      "project_content": "\n1. 设计 JMQ-DRC 组件架构并开发实现\n2. 同时支持同源数据传输及异地数据传输\n3. 组件与 JMQ 元数据服务交互，实时配置元数据\n4. 与 DRC 通用模块交互，支持心跳上报，任务报警，动态下发，批量操作等功能\n4. 接入资源账单，通过 k8s 实现任务与容器的创建与销毁，不需要人工维护",
+      "project_content": "\n1. 设计 JMQ-DRC 组件架构并开发实现\n2. 同时支持同源数据传输及异地数据传输\n3. 组件与 JMQ 元数据服务交互，实时配置元数据\n4. 与 DRC 通用模块交互，支持心跳上报，任务报警，动态下发，批量操作等功能\n5. 接入资源账单，通过 k8s 实现任务与容器的创建与销毁，不需要人工维护",
       "dataIndex": 2
     }
   ],
