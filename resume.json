@@ -1,0 +1,113 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": { "hidden": false },
+  "profile": {
+    "name": "江楠",
+    "email": "iamazy.me@outlook.com",
+    "mobile": "15665475750",
+    "github": "https://github.com/iamazy",
+    "zhihu": "",
+    "workExpYear": "4年",
+    "workPlace": "北京",
+    "positionTitle": "后端研发工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2014.09.01", "2018.06.30"],
+      "school": "东北石油大学",
+      "major": "软件功能",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "中科院信息工程研究所",
+      "department_name": "安全部门",
+      "work_time": "2018.06 - 2020.01",
+      "work_desc": "1. 担任后端研发工程师\n2. 负责海量数据检索与数据可视化（ELK系列）\n3.负责设计开发基于 Spring Security 的统一鉴权访问控制系统\n4. 负责开发网络数据流实时获取组件\n",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "京东零售",
+      "department_name": "技术与数据中台 - 存储研发部",
+      "work_time": "2020.03-至今",
+      "work_desc": "1.担任后端研发工程师\n2. 负责 JMQ 客户端的设计与开发（Java + Go）\n3. 参与中间件 Mesh 化落地，主要负责 JMQ 集成 Mesh 相关的工作\n4. 参与单元化项目，主要负责设计与开发 JMQ 数据迁移模块",
+      "dataIndex": 1
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "Java + Rust + Go",
+      "skill_desc": "",
+      "skill_level": 90,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "Vue + Html + Css",
+      "skill_level": 90,
+      "dataIndex": 1,
+      "skill_desc": ""
+    },
+    {
+      "skill_name": "消息队列客户端的设计与开发",
+      "skill_desc": "丰富的网络通信与性能调优经验",
+      "skill_level": 100,
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "消息队列的设计与开发",
+      "skill_desc": "深入理解消息队列的基础架构与实现原理",
+      "skill_level": 90,
+      "dataIndex": 3
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "(个人开源项目) elasticsearch-sql",
+      "project_role": "核心开发者",
+      "project_time": "2019 - 至今",
+      "project_desc": "通过 sql 语句简化 elasticsearch 查询语法，让不懂 es 的人也能进行海量数据检索",
+      "project_content": "\n1. 使用 antlr4 定制 dsl 语言，实现 sql 语法解析\n2. 通过抽象语法树实现 sql 语句与 es 查询语句的适配\n3. 支持通用的 sql 查询，排序，聚类，以及 es 支持的地理数据查询，histogram 数据查询等\n4. 支持插件化，可以集成进各个版本的 es 中，并在 kibana 中进行可视化展示",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "(个人开源项目) rust版 JVM",
+      "project_role": "核心开发者",
+      "project_time": "2022.03 - 至今",
+      "project_desc": "通过 rust 语言实现 JVM 主要功能，包括class文件的解析，类的加载，运行时数据区的实现，可以执行大多数 JVM 指令",
+      "project_content": "\n1. 通过 nom 解析 class 文件，转换成对应的 class 对象\n2. 实现运行时数据区，为 JVM 指令的调用打下基础\n3. 实现 class path 加载，支持路径，jar和zip文件\n5. 可以调用 JVM 指令执行简单的 Java 程序",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "JMQ 客户端设计与开发",
+      "project_role": "客户端负责人",
+      "project_time": "2019.04 - 2020.06",
+      "project_desc": "为了满足集团内部不同 JMQ 用户的需求，满足 618，双11大促的性能要求，并帮助他们无缝从 JMQ2 迁移到JMQ4 平台，设计开发 JMQ 客户端，同时支持 Java与 Go语言，并通过 Mesh 化支持绝对大多数编程语言，以及客户端的热升级。",
+      "project_content": "\n1. 设计开发 JMQ 客户端，同时支持 JMQ2 和 JMQ4 协议\n2. 开发生产模块，主要包含同步和异步两种发送模式，支持顺序消息，支持多种 ACK 方式\n3. 开发消费模块，主要包含主动拉取和订阅拉取，广播消费三种方式。通过 ACK 机制保证不丢消息。\n4. 开发元数据模块，主要包含元数据拉取，元数据落盘，以及元数据增量/全量更新模块。\n5. 扩展客户端生态，支持 Spring，SpringBoot",
+      "dataIndex": 3
+    },
+    {
+      "project_name": "JMQ-DRC项目",
+      "project_role": "研发负责人",
+      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+      "project_desc": "响应集团单元化战略，在异地部署多个集群构成单元与中心，并通过 DRC 组件进行数据传输，减少异地之间的流量复制",
+      "project_content": "\n1. 设计 JMQ-DRC 组件架构并开发实现\n2. 同时支持同源数据传输及异地数据传输\n3. 组件与 JMQ 元数据服务交互，实时配置元数据\n4. 与 DRC 通用模块交互，支持心跳上报，任务报警，动态下发，批量操作等功能\n4. 接入资源账单，通过 k8s 实现任务与容器的创建与销毁，不需要人工维护",
+      "dataIndex": 2
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "一个热爱钻研技术，日常混迹于开源社区的少年。对分布式存储，数据库有着强烈的兴趣。会参与一些社区项目，为开源事业添砖加瓦"
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
