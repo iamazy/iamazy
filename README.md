@@ -4,6 +4,7 @@
 - 🥝 I'm doing the labs of [6.830/6.814](https://github.com/iamazy/simple-db-2021)
 - 🐼 I'm also learning c/c++ for the labs of [cmu-15445](https://github.com/cmu-db/bustub)
 - 🍉 I want to build my own database named **helyim** written by rust (still in the brain)
+- 🏸 I'm an amateur badminton player
 - ☕️  Feel free to reach me to talk about anything.
 
 ### 📚 to be read
