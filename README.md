@@ -3,7 +3,7 @@
 - 📚 I'm reading [database internal](https://github.com/sinsay/database_internals) & [ddia](https://github.com/Vonng/ddia)
 - 🥝 I'm doing the labs of [6.830/6.814](https://github.com/iamazy/simple-db-2021)
 - 🐼 I'm also learning c/c++ for the labs of [cmu-15445](https://github.com/cmu-db/bustub)
-- 🍉 I want to build my own database named **helyim** written by rust (still in the brain)
+- 🍉 I want to build my own **object storage** named **helyim** written by rust
 - 🏸 I'm an amateur badminton player
 - ☕️  Feel free to reach me to talk about anything.
 
